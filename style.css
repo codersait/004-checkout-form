@@ -153,3 +153,6 @@ img {
   text-decoration: line-through;
   font-size: 0.8rem;
 }
+.card-body > h3 {
+  margin-bottom: 0.3rem;
+}
