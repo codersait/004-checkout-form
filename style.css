@@ -144,3 +144,12 @@ img {
     margin: 1rem 0 0;
   }
 }
+
+.price {
+  color: #f2994a;
+  font-weight: bold;
+}
+.old-price {
+  text-decoration: line-through;
+  font-size: 0.8rem;
+}
